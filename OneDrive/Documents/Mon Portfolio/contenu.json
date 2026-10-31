@@ -1,0 +1,74 @@
+{
+    "nom": "KABANGU NTUMBA Jessé",
+    "titre": "Administrateur de base de données et systèmes informatiques, Technicien IT SUPPORT MANAGEMENT, Développeur FULL STACK.",
+    "apropos": [
+        "Je suis un développeur web et gestionnaire de systèmes informatique passionné par la création de solutions numériques efficaces, fiables et faciles à utiliser. Mon parcours s’appuie sur des compétences solides en administration de bases de données, support informatique, développement web et gestion d’infrastructures technologiques.",
+        "Grâce à mes connaissances en HTML, CSS, Bootstrap, Python, PHP et SQL, je peux transformer des idées en interfaces web modernes, développer des fonctionnalités complètes et structurer des bases de données robustes. Je m’y connais aussi en support technique, maintenance des systèmes et analyse des besoins.",
+        "Mon objectif est de contribuer à la mise en place de projets numériques innovants, en combinant rigueur technique, sens de l’organisation, autonomie et souci du détail.",
+        "Je travaille avec sérieux, j’aime résoudre les problèmes concrets et je mets un point d’honneur à livrer des solutions qui soient à la fois fonctionnelles, sécurisées et faciles à utiliser pour les utilisateurs."
+    ],
+    "competences": {
+        "Front-end": [
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "Python",
+            "JavaScript"
+        ],
+        "Back-end": [
+            "PHP",
+            "SQL",
+            "API REST",
+            "MySQL",
+            "Gestion de bases de données"
+        ],
+        "Outils": [
+            "Git & GitHub",
+            "GitHub Actions",
+            "UI/UX",
+            "Support informatique",
+            "Maintenance système"
+        ],
+        "Gestion": [
+            "Analyse des besoins",
+            "Documentation technique",
+            "Suivi de projets",
+            "Assistance utilisateurs"
+        ]
+    },
+    "projets": [
+        {
+            "titre": "Portfolio personnel",
+            "description": "Création d’un site vitrine moderne pour présenter mes compétences, mes réalisations et mes coordonnées."
+        },
+        {
+            "titre": "Application Desktop",
+            "description": "Conception d’une application desktop pour la gestion de frais de formation et d'inscription au sein du CEFECITEL."
+        },
+        {
+            "titre": "Site vitrine d'entreprise",
+            "description": "Développement d’une interface web professionnelle avec mise en page moderne, sections de services, informations de contact et présentation de l’entreprise."
+        },
+        {
+            "titre": "Système de gestion de données",
+            "description": "Conception de solutions de stockage et de gestion de données pour améliorer le suivi, l’accès et l'organisation des informations."
+        }
+    ],
+    "contact": [
+        {
+            "type": "gmail",
+            "label": "jessekabangu050@gmail.com",
+            "href": "mailto:jessekabangu050@gmail.com"
+        },
+        {
+            "type": "whatsapp",
+            "label": "+243 808 883 6027",
+            "href": "https://wa.me/243808836027"
+        },
+        {
+            "type": "linkedin",
+            "label": "Profil LinkedIn",
+            "href": "#"
+        }
+    ]
+}
